@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "name":"Branded Shoes",
+        "price": 500,
+        "image": "s2.jpg"
+    },
+    {
+        "id": 2,
+        "name":"Branded Shoes",
+        "price": 500,
+        "image": "s3.jpg"
+    },
+    {
+        "id": 3,
+        "name":"Branded Shoes",
+        "price": 500,
+        "image": "s8.jpg"
+    },
+    {
+        "id": 4,
+        "name":"Accessories",
+        "price": 10000,
+        "image": "bu1.jpg"
+    }, 
+       {
+        "id": 5,
+        "name":"Fashion Clothes",
+        "price": 800,
+        "image": "bu2.jpg"
+    }, 
+       {
+        "id": 6,
+        "name":"Cosmetics",
+        "price": 200,
+        "image": "bu3.jpg"
+    },    {
+        "id": 7,
+        "name":"Makeup Kits",
+        "price": 1100,
+        "image": "bu4.jpg"
+    }
+]
